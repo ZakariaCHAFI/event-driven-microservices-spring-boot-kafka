@@ -1,4 +1,4 @@
-package zci.training.stockservice.config;
+package zci.training.orderservice.config;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.beans.factory.annotation.Value;
